@@ -2,7 +2,7 @@
 - 👀 Estou interessado em ferramentas de analise de dados
 - 🌱 Atualmente estou estudando Excel, PBI, Python e SQL
 - 💞️ Estou trabalhando em um empresa pública 
-- 📫 How to reach me ...
+
 
 <!---
 Davidanalista/Davidanalista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
